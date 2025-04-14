@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<header>
+   <h1>Cardápio</h1>
+   <a href="#" class="btn-action">Pagina principal</a>
+</header>
+<body>
+    <h2><b>Massas</b></h2>
+    <h3>Branca - Ingredientes:</h3>
+    <h3>Açucar;
+        Água;
+        Essencia de baunilha;
+        Farinha de trigo;
+        Fermento em pó;
+        Ovo.</h3>
+        <h2>  </h2>
+    <h3>Preta - Ingredientes:</h3>
+    <h3>Açucar;
+        Água;
+        Chocolate em pó;
+        Farinha de trigo;
+        Fermento em pó;
+        Ovo.</h3>
+
+    <h2><b>Recheios:<b></h2>
+    <h3> 
+        <h2> Massa Baunilha -<h2>
+            Creme com Abacaxi;
+            Leite Ninho;
+            Leite Ninho com Morango;
+            Doce de Leite Com Nozes;
+            Doce de Leite Com Ameixa;
+            Doce de Leite Com Coco;
+            Doce de Leite Com abacaxi;
+            Churros.</h3>
+    <h2>  <h2>
+        <h2> Massa Chocolate -</h2>
+        <h3>
+            Brigadeiro;
+            Mousse Alpino;
+            Flocado;
+            Prestígio;
+            Chandelle;
+            Creme de Avelã.
+        </h3>
+</body>
+</html>
